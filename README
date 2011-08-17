@@ -5,7 +5,13 @@ production level code. Please do not hold your breath waiting to be impressed
 with this code. This is supposed to be a very basic DB CRUD app, nothing fancy
 or impressive. Expense Tracker PhoneGap includes a copy of jQuery Mobile.
 
+This repo is an Eclipse Android project. If you would like to work with this
+code, be sure to install the Android Development Tools Plugin for Eclipse. The
+instructions can be found at the following URL:
+http://developer.android.com/sdk/eclipse-adt.html
+
 Expense Tracker PhoneGap is licensed under the Apache Public License (Version 2).
+
 
 
 Notices from jQuery:
